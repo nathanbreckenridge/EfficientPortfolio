@@ -1,5 +1,5 @@
 # Nathan Breckenridge
-#Adapted from www.DataCamp.com
+# Finds the efficient Portfolio Weights of Boeing, Nordstrom, Starbucks, Microsoft
 library("zoo")
 load(url("http://s3.amazonaws.com/assets.datacamp.com/course/compfin/lab9.RData"))
 head(returns_df)
